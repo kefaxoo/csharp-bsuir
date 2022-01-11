@@ -1,0 +1,8 @@
+F:\Программирование и всё что с ним связано\c#\code\l2\p2\bin\Debug\p2.exe
+F:\Программирование и всё что с ним связано\c#\code\l2\p2\bin\Debug\p2.pdb
+F:\Программирование и всё что с ним связано\c#\code\l2\p2\obj\x86\Debug\p2.Form1.resources
+F:\Программирование и всё что с ним связано\c#\code\l2\p2\obj\x86\Debug\p2.Properties.Resources.resources
+F:\Программирование и всё что с ним связано\c#\code\l2\p2\obj\x86\Debug\p2.exe
+F:\Программирование и всё что с ним связано\c#\code\l2\p2\obj\x86\Debug\p2.pdb
+F:\Программирование и всё что с ним связано\c#\code\l2\p2\obj\x86\Debug\p2.csprojResolveAssemblyReference.cache
+F:\Программирование и всё что с ним связано\c#\code\l2\p2\obj\x86\Debug\p2.csproj.GenerateResource.Cache

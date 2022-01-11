@@ -1,0 +1,9 @@
+F:\Программирование и всё что с ним связано\c#\code\l2\p1.1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Программирование и всё что с ним связано\c#\code\l2\p1.1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Программирование и всё что с ним связано\c#\code\l2\p1.1\obj\x86\Debug\p1._1.Properties.Resources.resources
+F:\Программирование и всё что с ним связано\c#\code\l2\p1.1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Программирование и всё что с ним связано\c#\code\l2\p1.1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Программирование и всё что с ним связано\c#\code\l2\p1.1\bin\Debug\p1.1.exe
+F:\Программирование и всё что с ним связано\c#\code\l2\p1.1\bin\Debug\p1.1.pdb
+F:\Программирование и всё что с ним связано\c#\code\l2\p1.1\obj\x86\Debug\p1.1.exe
+F:\Программирование и всё что с ним связано\c#\code\l2\p1.1\obj\x86\Debug\p1.1.pdb
