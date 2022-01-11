@@ -1,0 +1,11 @@
+F:\Программирование и всё что с ним связано\c#\code\vs2015\h3\p1\bin\Debug\p1.exe.config
+F:\Программирование и всё что с ним связано\c#\code\vs2015\h3\p1\bin\Debug\p1.exe
+F:\Программирование и всё что с ним связано\c#\code\vs2015\h3\p1\bin\Debug\p1.pdb
+F:\Программирование и всё что с ним связано\c#\code\vs2015\h3\p1\obj\Debug\p1.csprojResolveAssemblyReference.cache
+F:\Программирование и всё что с ним связано\c#\code\vs2015\h3\p1\obj\Debug\p1.Form1.resources
+F:\Программирование и всё что с ним связано\c#\code\vs2015\h3\p1\obj\Debug\p1.Properties.Resources.resources
+F:\Программирование и всё что с ним связано\c#\code\vs2015\h3\p1\obj\Debug\p1.csproj.GenerateResource.Cache
+F:\Программирование и всё что с ним связано\c#\code\vs2015\h3\p1\obj\Debug\p1.exe
+F:\Программирование и всё что с ним связано\c#\code\vs2015\h3\p1\obj\Debug\p1.pdb
+V:\coding\c#\projectsCourses\vs2015\lessons\h3\p1\obj\Debug\p1.exe
+V:\coding\c#\projectsCourses\vs2015\lessons\h3\p1\obj\Debug\p1.pdb
