@@ -1,9 +1,0 @@
-F:\Программирование и всё что с ним связано\c#\code\l2\p1.2\bin\Debug\p1.2.exe.config
-F:\Программирование и всё что с ним связано\c#\code\l2\p1.2\bin\Debug\p1.2.exe
-F:\Программирование и всё что с ним связано\c#\code\l2\p1.2\bin\Debug\p1.2.pdb
-F:\Программирование и всё что с ним связано\c#\code\l2\p1.2\obj\Debug\p1.2.csprojResolveAssemblyReference.cache
-F:\Программирование и всё что с ним связано\c#\code\l2\p1.2\obj\Debug\p1._2.Form1.resources
-F:\Программирование и всё что с ним связано\c#\code\l2\p1.2\obj\Debug\p1._2.Properties.Resources.resources
-F:\Программирование и всё что с ним связано\c#\code\l2\p1.2\obj\Debug\p1.2.csproj.GenerateResource.Cache
-F:\Программирование и всё что с ним связано\c#\code\l2\p1.2\obj\Debug\p1.2.exe
-F:\Программирование и всё что с ним связано\c#\code\l2\p1.2\obj\Debug\p1.2.pdb

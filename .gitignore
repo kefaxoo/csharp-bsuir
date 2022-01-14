@@ -3,3 +3,5 @@
 /RELEASES/*.exe
 
 ._*.*
+
+/.vs/
