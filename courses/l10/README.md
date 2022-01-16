@@ -21,7 +21,3 @@ D7
 Цифра указывает количество сокровищ. Большая или маленькая буква – размер сокровища (10 и 5 px).
 
 ![](https://github.com/kefaxoo/csharp-bsuir/raw/main/courses/l10/images/Picture%201.png)
-
-Задание 2: Сделать приложение, которое будет "контейнером" для новых окон. В главном окне должна быть панель инструментов.
-
-![](https://github.com/kefaxoo/csharp-bsuir/raw/main/courses/l9/images/Picture%202.png)
