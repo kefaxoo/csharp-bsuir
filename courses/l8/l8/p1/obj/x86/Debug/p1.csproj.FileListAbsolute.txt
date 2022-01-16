@@ -1,0 +1,22 @@
+F:\Программирование и всё что с ним связано\c#\code\l9\p1\bin\Debug\p1.exe
+F:\Программирование и всё что с ним связано\c#\code\l9\p1\bin\Debug\p1.pdb
+F:\Программирование и всё что с ним связано\c#\code\l9\p1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Программирование и всё что с ним связано\c#\code\l9\p1\obj\x86\Debug\p1.Form1.resources
+F:\Программирование и всё что с ним связано\c#\code\l9\p1\obj\x86\Debug\p1.Properties.Resources.resources
+F:\Программирование и всё что с ним связано\c#\code\l9\p1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Программирование и всё что с ним связано\c#\code\l9\p1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Программирование и всё что с ним связано\c#\code\l9\p1\obj\x86\Debug\p1.exe
+F:\Программирование и всё что с ним связано\c#\code\l9\p1\obj\x86\Debug\p1.pdb
+L:\coding\c#\projectsCourses\vs2010\folders\l9\p1\bin\Debug\p1.exe
+L:\coding\c#\projectsCourses\vs2010\folders\l9\p1\bin\Debug\p1.pdb
+L:\coding\c#\projectsCourses\vs2010\folders\l9\p1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+L:\coding\c#\projectsCourses\vs2010\folders\l9\p1\obj\x86\Debug\p1.csproj.AssemblyReference.cache
+L:\coding\c#\projectsCourses\vs2010\folders\l9\p1\obj\x86\Debug\p1.Form1.resources
+L:\coding\c#\projectsCourses\vs2010\folders\l9\p1\obj\x86\Debug\p1.Properties.Resources.resources
+L:\coding\c#\projectsCourses\vs2010\folders\l9\p1\obj\x86\Debug\p1.csproj.GenerateResource.cache
+L:\coding\c#\projectsCourses\vs2010\folders\l9\p1\obj\x86\Debug\p1.csproj.CoreCompileInputs.cache
+L:\coding\c#\projectsCourses\vs2010\folders\l9\p1\obj\x86\Debug\p1.csproj.CopyComplete
+L:\coding\c#\projectsCourses\vs2010\folders\l9\p1\obj\x86\Debug\p1.exe
+L:\coding\c#\projectsCourses\vs2010\folders\l9\p1\obj\x86\Debug\p1.pdb
+F:\Coding\c# coding\bsuir-courses-csharp\l8\p1\obj\x86\Debug\p1.exe
+F:\Coding\c# coding\bsuir-courses-csharp\l8\p1\obj\x86\Debug\p1.pdb
