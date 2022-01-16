@@ -1,0 +1,7 @@
+F:\Coding\c# coding\bsuir-courses-csharp\l2\p1\bin\Debug\p1.exe
+F:\Coding\c# coding\bsuir-courses-csharp\l2\p1\bin\Debug\p1.pdb
+F:\Coding\c# coding\bsuir-courses-csharp\l2\p1\obj\x86\Debug\p1.Form1.resources
+F:\Coding\c# coding\bsuir-courses-csharp\l2\p1\obj\x86\Debug\p1.Properties.Resources.resources
+F:\Coding\c# coding\bsuir-courses-csharp\l2\p1\obj\x86\Debug\p1.csproj.GenerateResource.Cache
+F:\Coding\c# coding\bsuir-courses-csharp\l2\p1\obj\x86\Debug\p1.exe
+F:\Coding\c# coding\bsuir-courses-csharp\l2\p1\obj\x86\Debug\p1.pdb
